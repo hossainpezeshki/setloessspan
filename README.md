@@ -9,6 +9,7 @@ by other functions, and testhp_loess.R is a problem that tests the former.
 
 ## Copyright notice 
 Copyright (C) 2015 by Dr. Hossain Pezeshki June 8th, 2015
+
 [My LinkedIn profile](https://ca.linkedin.com/pub/hossain-pezeshki/0/778/395)
 
 Permission is granted for anyone to copy, use, or modify these
